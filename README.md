@@ -39,7 +39,6 @@ It validates the critical path from user login to order completion.
 - playwright.config.js
 - README.md
 
-
 # ▶️ How to Run
 
 ## Install dependencies
@@ -50,3 +49,7 @@ It validates the critical path from user login to order completion.
 
 ## Run in headless mode
 **npx playwright test**
+
+## 🎥 Video Demo
+![Shopping Cart Flow](/Videos%20and%20Screenshots/video.webm)
+
