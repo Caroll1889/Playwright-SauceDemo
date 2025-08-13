@@ -51,5 +51,5 @@ It validates the critical path from user login to order completion.
 **npx playwright test**
 
 ## 🎥 Video Demo
-![Shopping Cart Flow](/Videos%20and%20Screenshots/video.webm)
+<video src="/Videos and Screenshots/video.mp4" width="320" height="240" controls></video>
 
