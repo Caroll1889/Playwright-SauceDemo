@@ -50,6 +50,6 @@ It validates the critical path from user login to order completion.
 ## Run in headless mode
 **npx playwright test**
 
-## 🎥 Video Demo
-<video src="/Videos and Screenshots/video.mp4" width="320" height="240" controls></video>
+## 🎥 GIF Demo
+![GIF Demo](/Videos%20and%20Screenshots/video.gif)
 
